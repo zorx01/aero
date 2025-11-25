@@ -1,0 +1,6 @@
+
+numpy>=1.25.2
+pyrealsense2>=2.50.0
+rerun-sdk>=0.15.0
+scipy>=1.10.0
+attrs>=23.0.0
